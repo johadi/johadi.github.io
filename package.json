@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b develop -d dist",
+    "deploy": "gh-pages -b master -d dist",
     "start": "npm run build",
     "clean-dist": "rm -rf ./dist && mkdir -p ./dist",
     "copy-to-dist": "cp -r ./public/* ./dist/",
