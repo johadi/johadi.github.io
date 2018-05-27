@@ -30,7 +30,7 @@ const common = {
     new webpack.DefinePlugin({
       // API_HOST is used for production
       'process.env': {
-        NODE_ENV: JSON.stringify('production'),
+        NODE_ENV: JSON.stringify('development'),
         API_HOST: JSON.stringify('http://localhost:4000')
       }
     })
