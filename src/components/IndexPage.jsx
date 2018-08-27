@@ -89,12 +89,13 @@ const IndexPage = () => <div id="colorlib-page">
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                   <div className="col-md-12">
                     <div className="about-desc">
-                      <span className="heading-meta">About Us</span>
+                      <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      <p><strong>Hi I'm Jackson Ford</strong> On her way she met a copy. The copy warned the Little
-                        Blind Text, that where it came from it would have been rewritten a thousand times and everything
-                        that was left from its origin would be the word "and" and the Little Blind Text should turn
-                        around and return to its own, safe country.</p>
+                      <p><strong>Hi I'm Jimoh Hadi</strong> I'm a passionate and result-oriented software developer
+                        with 5 years hands-on experience using JavaScript frameworks/libraries/tools:
+                        NodeJS, ReactJS, Angular 6, React Native, jQuery, Babel, Webpack, etc. I have Bsc. in
+                        Computer Science with strong background in programming, and considerable experience
+                        using cutting-edge software development tools. .</p>
                       <p>Even the all-powerful Pointing has no control about the blind texts it is an almost
                         unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
                         decided to leave for the far World of Grammar.</p>
