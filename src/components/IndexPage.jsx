@@ -7,7 +7,7 @@ const IndexPage = () => <div id="colorlib-page">
          aria-expanded="false" aria-controls="navbar"><i></i></a>
       <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
         <div className="text-center">
-          <div className="author-img" style={{ backgroundImage: 'url(/template-assets/images/about_jimoh.jpg)' }}></div>
+          <div className="author-img" style={{ backgroundImage: 'url(/template-assets/images/about_johadi.jpg)' }}></div>
           <h1 id="colorlib-logo"><a href="index3.html">Jimoh Hadi</a></h1>
           <span className="position"><a href="#">Software Developer</a> in Nigeria</span>
         </div>
@@ -42,7 +42,7 @@ const IndexPage = () => <div id="colorlib-page">
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: 'url(/template-assets/images/img_bg_1.jpg)' }}>
+              <li style={{ backgroundImage: 'url(/template-assets/images/hadi1.jpg)' }}>
                 <div className="overlay"></div>
                 <div className="container-fluid">
                   <div className="row">
@@ -60,7 +60,7 @@ const IndexPage = () => <div id="colorlib-page">
                   </div>
                 </div>
               </li>
-              <li style={{ backgroundImage: 'url(/template-assets/images/img_bg_2.jpg)' }}>
+              <li style={{ backgroundImage: 'url(/template-assets/images/hadi2.jpg)' }}>
                 <div className="overlay"></div>
                 <div className="container-fluid">
                   <div className="row">
@@ -69,11 +69,7 @@ const IndexPage = () => <div id="colorlib-page">
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I am a<br/> Software Developer</h1>
-                          <h2>With Bsc. in Computer Science and strong background in
-                            <a href="https://en.wikipedia.org/wiki/Computer_programming"
-                               target="_blank" rel="noopener"> programming
-                            </a>
-                          </h2>
+                          <h2>With Bsc. in Computer Science and strong background in programming</h2>
                           <p><a className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3"></i></a>
                           </p>
                         </div>
