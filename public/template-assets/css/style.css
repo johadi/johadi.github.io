@@ -1,3 +1,25 @@
+.tag-wrapper{
+    margin-left: 0;
+    padding-left: 0;
+}
+.tag-wrapper li small {
+    color: #8798a3;
+}
+.tag-wrapper li {
+    display:inline-block;
+}
+.tag-wrapper li:before {
+    content: '\00a0\2022\00a0\00a0';
+    color:#999;
+    color:rgba(0,0,0,0.5);
+    font-size:11px;
+}
+.tag-wrapper li:first-child:before {
+    content: '';
+}
+.education-list-wrapper li {
+    list-style-type: none;
+}
 @font-face {
     font-family: 'icomoon';
     src: url("../fonts/icomoon/icomoon.eot?srf3rx");
