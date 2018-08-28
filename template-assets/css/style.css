@@ -17,6 +17,9 @@
 .tag-wrapper li:first-child:before {
     content: '';
 }
+.education-list-wrapper li {
+    list-style-type: none;
+}
 @font-face {
     font-family: 'icomoon';
     src: url("../fonts/icomoon/icomoon.eot?srf3rx");
