@@ -74,7 +74,7 @@
               }
 
               el.removeClass('item-animate');
-            }, k * 200, 'easeInOutExpo');
+            }, k * 20, 'easeInOutExpo'); // Time it takes to display each section on scroll
           });
         }, 100);
       }
@@ -118,9 +118,9 @@
   };
 
   const clickMenu = function () {
-    $('#navbar a:not([class="external"])').click(function (event) {
+    $('.navbar-inner a:not([class="external"])').click(function (event) {
       let section = $(this).data('nav-section'),
-        navbar = $('#navbar');
+        navbar = $('.navbar-inner');
 
       if ($(`[data-section="${section}"]`).length) {
         $('html, body').animate({
@@ -174,7 +174,7 @@
   const sliderMain = function () {
     $('#colorlib-hero .flexslider').flexslider({
       animation: 'fade',
-      slideshowSpeed: 5000,
+      slideshowSpeed: 6000,
       directionNav: true,
       start() {
         setTimeout(() => {
