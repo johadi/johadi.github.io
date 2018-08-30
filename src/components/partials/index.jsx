@@ -9,3 +9,4 @@ export * from './Skills';
 export * from './Experience';
 export * from './Work';
 export * from './Overview';
+export * from './Modal';

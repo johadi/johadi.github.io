@@ -31,7 +31,7 @@ export const SideBar = () => (
         <li><a href="https://linkedin.com/in/jimoh-hadi" target="_blank" rel="noopener">
           <i className="icon-linkedin2 text-primary"></i>
         </a></li>
-        <li><a href="https://facebook.com/jimoh.hadiovenje" target="_blank" rel="noopener">
+        <li><a href="https://facebook.com/jimoh.hadi11" target="_blank" rel="noopener">
           <i className="icon-facebook2 text-primary"></i>
         </a></li>
         <li><a href="https://twitter.com/johadi10" target="_blank" rel="noopener">
