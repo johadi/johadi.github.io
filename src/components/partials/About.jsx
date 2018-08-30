@@ -65,10 +65,10 @@ export const About = () => (
         </div>
         <div className="row">
           <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-            <div className="hire">
+            <div className="hire navbar-inner">
               <h2>I have developed and contributed to several Projects. My Clients' success is always my utmost
                 concern.</h2>
-              <a href="#" className="btn-hire">Hire me</a>
+              <a href="#" data-nav-section="contact" className="btn-hire">Contact Me</a>
             </div>
           </div>
         </div>

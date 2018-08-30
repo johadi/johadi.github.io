@@ -52,7 +52,7 @@ export class Contact extends React.Component {
       errors, isLoading, showSweetAlert, isSuccess, sweetAlertMessage
     } = this.state;
     return (
-      <div className="colorlib-narrow-content">
+      <div id="contact" className="colorlib-narrow-content">
         <div className="row">
           <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
             <span className="heading-meta">Get in Touch</span>

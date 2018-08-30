@@ -4,11 +4,11 @@ export const SideBar = () => (
   <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
     <div className="text-center">
       <div className="author-img" style={{backgroundImage: 'url(/template-assets/images/about_johadi.jpg)'}}></div>
-      <h1 id="colorlib-logo"><a href="index3.html">Jimoh Hadi</a></h1>
-      <small><a className="position">Software Developer in Nigeria</a></small>
+      <h1 id="colorlib-logo"><a>Jimoh Hadi</a></h1>
+      <small><a className="position text-primary">Software Developer in Nigeria</a></small>
     </div>
     <nav id="colorlib-main-menu" role="navigation" className="navbar">
-      <div id="navbar" className="collapse">
+      <div id="navbar" className="navbar-inner collapse">
         <ul>
           <li className="active"><a href="#" data-nav-section="home">Home</a></li>
           <li><a href="#" data-nav-section="about">About</a></li>
