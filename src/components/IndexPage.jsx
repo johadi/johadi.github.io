@@ -1,12 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import {
   Blog, SideBar, Home, About, Services, Skills, Education, Experience, Work, Contact, Overview
 } from './partials';
 
 const IndexPage = () => <div id="colorlib-page">
   <div className="container-wrap">
-    <Link to={'/admin'}>Admin</Link>
     <a href="#" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar"
        aria-expanded="false" aria-controls="navbar"><i></i></a>
 

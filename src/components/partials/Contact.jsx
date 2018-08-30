@@ -23,8 +23,7 @@ export class Contact extends React.Component {
     this.setState({ isLoading: true });
     axios.post(`${apiBaseURL}/api/message`, this.state.messageDetails)
       .then((response) => {
-        const message = `Hi ${response.data.name}! Your message has been delivered. I will get back to you as soon as possible.
-        Thanks for reaching out`;
+        const message = `Hi ${response.data.name}! Your message has been delivered. I will get back to you as soon as possible. Thanks for reaching out.`;
         this.setState({
           isSuccess: true, isLoading: false, showSweetAlert: true, sweetAlertMessage: message
         });
