@@ -10,17 +10,17 @@ export const Overview = () => (
       </div>
       <div className="row">
         <div className="col-md-4 text-center animate-box">
-                <span className="colorlib-counter js-counter" data-from="0" data-to="18" data-speed="5000"
+                <span className="colorlib-counter js-counter" data-from="0" data-to="15" data-speed="5000"
                       data-refresh-interval="50"></span>
           <span className="colorlib-counter-label">Projects</span>
         </div>
         <div className="col-md-4 text-center animate-box">
-                <span className="colorlib-counter js-counter" data-from="0" data-to="7" data-speed="5000"
+                <span className="colorlib-counter js-counter" data-from="0" data-to="6" data-speed="5000"
                       data-refresh-interval="50"></span>
           <span className="colorlib-counter-label">Clients</span>
         </div>
         <div className="col-md-4 text-center animate-box">
-                <span className="colorlib-counter js-counter" data-from="0" data-to="13" data-speed="5000"
+                <span className="colorlib-counter js-counter" data-from="0" data-to="9" data-speed="5000"
                       data-refresh-interval="50"></span>
           <span className="colorlib-counter-label">Partners</span>
         </div>
