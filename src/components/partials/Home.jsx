@@ -3,7 +3,7 @@ import React from 'react';
 export const Home = () => (
   <div className="flexslider js-fullheight">
     <ul className="slides">
-      <li style={{backgroundImage: 'url(/template-assets/images/hadi1.jpg)'}}>
+      <li className="slider1">
         <div className="overlay"></div>
         <div className="container-fluid">
           <div className="row">
@@ -12,7 +12,7 @@ export const Home = () => (
               <div className="slider-text-inner js-fullheight">
                 <div className="desc">
                   <h1>Hi! <br/>I'm Jimoh</h1>
-                  <h2>a passionate and result-oriented software developer with 5+ years experience in
+                  <h2>A passionate and result-oriented software developer with 5+ years experience in
                     programming</h2>
                   <p>
                     <a download href="/template-assets/files/jimoh_hadi_cv.pdf" className="btn btn-primary btn-learn">
@@ -25,7 +25,7 @@ export const Home = () => (
           </div>
         </div>
       </li>
-      <li style={{backgroundImage: 'url(/template-assets/images/hadi2.jpg)'}}>
+      <li className="slider2">
         <div className="overlay"></div>
         <div className="container-fluid">
           <div className="row">
