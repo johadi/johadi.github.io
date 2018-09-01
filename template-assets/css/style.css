@@ -20,6 +20,22 @@
 .education-list-wrapper li {
     list-style-type: none;
 }
+
+.slider1 {
+    background-image: url(/template-assets/images/jim.png);
+}
+
+.slider2 {
+    background-image: url(/template-assets/images/jim_andela.png);
+}
+@media screen and (max-width: 992px) {
+    .slider1 {
+        background-image: url(/template-assets/images/jim2_center.png);
+    }
+    .slider2 {
+        background-image: url(/template-assets/images/hadi2.jpg);
+    }
+}
 @font-face {
     font-family: 'icomoon';
     src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -329,7 +345,7 @@ figure figcaption {
 
 #colorlib-hero {
     min-height: 500px;
-    background: #fff url(../images/loader.gif) no-repeat center center;
+    background: #fff url(../template_assets/images/loader.gif) no-repeat center center;
     width: 100%;
     float: left;
     margin-bottom: 10em;
