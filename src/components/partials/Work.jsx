@@ -14,9 +14,9 @@ export const Work = () => (
           <div className="desc">
             <div className="con">
               <h3><a href="https://jimoh-postit.herokuapp.com" target="_blank" rel="noopener">Postit</a></h3>
-              <a href="https://jimoh-postit.herokuapp.com" target="_blank" rel="noopener"><span>View Website</span></a>
-              <a href="https://github.com/johadi/Postit" target="_blank" rel="noopener"><span>View Github repo</span></a>
-              <p className="icon">
+              <a href="https://jimoh-postit.herokuapp.com" target="_blank" rel="noopener"><span className="project-link">View Website</span></a>
+              <a href="https://github.com/johadi/Postit" target="_blank" rel="noopener"><span className="project-link">View Github repo</span></a>
+              <p className="icon project-text">
                 Application that allows users send notifications to one another via groups.
               </p>
             </div>
@@ -28,9 +28,9 @@ export const Work = () => (
           <div className="desc">
             <div className="con">
               <h3><a href="https://you-post.herokuapp.com" target="_blank" rel="noopener">YouPost</a></h3>
-              <a href="https://you-post.herokuapp.com" target="_blank" rel="noopener"><span>View Website</span></a>
-              <a href="https://github.com/johadi/you-post" target="_blank" rel="noopener"><span>View Github repo</span></a>
-              <p className="icon">
+              <a href="https://you-post.herokuapp.com" target="_blank" rel="noopener"><span className="project-link">View Website</span></a>
+              <a href="https://github.com/johadi/you-post" target="_blank" rel="noopener"><span className="project-link">View Github repo</span></a>
+              <p className="icon project-text">
                 Application that allows users to read and send messages to groups they joined.
               </p>
             </div>
@@ -42,9 +42,9 @@ export const Work = () => (
           <div className="desc">
             <div className="con">
               <h3><a href="https://jim-notebook.herokuapp.com" target="_blank" rel="noopener">Notebook</a></h3>
-              <a href="https://jim-notebook.herokuapp.com" target="_blank" rel="noopener"><span>View Website</span></a>
-              <a href="https://github.com/johadi/notebook-web" target="_blank" rel="noopener"><span>View Github repo</span></a>
-              <p className="icon">
+              <a href="https://jim-notebook.herokuapp.com" target="_blank" rel="noopener"><span className="project-link">View Website</span></a>
+              <a href="https://github.com/johadi/notebook-web" target="_blank" rel="noopener"><span className="project-link">View Github repo</span></a>
+              <p className="icon project-text">
                 Application that allows users jot down notes and access them anytime.
               </p>
             </div>
@@ -56,9 +56,9 @@ export const Work = () => (
           <div className="desc">
             <div className="con">
               <h3><a href="https://twovotes.herokuapp.com" target="_blank" rel="noopener">TwoVotes</a></h3>
-              <a href="https://twovotes.herokuapp.com" target="_blank" rel="noopener"><span>View Website</span></a>
-              <a href="https://github.com/johadi/twovotes" target="_blank" rel="noopener"><span>View Github repo</span></a>
-              <p className="icon">
+              <a href="https://twovotes.herokuapp.com" target="_blank" rel="noopener"><span className="project-link">View Website</span></a>
+              <a href="https://github.com/johadi/twovotes" target="_blank" rel="noopener"><span className="project-link">View Github repo</span></a>
+              <p className="icon project-text">
                 Application that allows users vote between two pictures seen on their timelines.
               </p>
             </div>
