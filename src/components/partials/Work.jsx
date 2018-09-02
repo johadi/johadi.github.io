@@ -10,7 +10,7 @@ export const Work = () => (
     </div>
     <div className="row">
       <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-        <div className="project" style={{backgroundImage: 'url(/template-assets/images/img-1.jpg)'}}>
+        <div className="project" style={{backgroundImage: 'url(/template-assets/images/postit.jpg)'}}>
           <div className="desc">
             <div className="con">
               <h3><a href="https://jimoh-postit.herokuapp.com" target="_blank" rel="noopener">Postit</a></h3>
@@ -24,7 +24,7 @@ export const Work = () => (
         </div>
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-        <div className="project" style={{backgroundImage: 'url(/template-assets/images/img-2.jpg)'}}>
+        <div className="project" style={{backgroundImage: 'url(/template-assets/images/youpost.jpg)'}}>
           <div className="desc">
             <div className="con">
               <h3><a href="https://you-post.herokuapp.com" target="_blank" rel="noopener">YouPost</a></h3>
@@ -38,7 +38,7 @@ export const Work = () => (
         </div>
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
-        <div className="project" style={{backgroundImage: 'url(/template-assets/images/img-3.jpg)'}}>
+        <div className="project" style={{backgroundImage: 'url(/template-assets/images/notebook.jpg)'}}>
           <div className="desc">
             <div className="con">
               <h3><a href="https://jim-notebook.herokuapp.com" target="_blank" rel="noopener">Notebook</a></h3>
@@ -52,7 +52,7 @@ export const Work = () => (
         </div>
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-        <div className="project" style={{backgroundImage: 'url(/template-assets/images/img-4.jpg)'}}>
+        <div className="project" style={{backgroundImage: 'url(/template-assets/images/twovotes.jpg)'}}>
           <div className="desc">
             <div className="con">
               <h3><a href="https://twovotes.herokuapp.com" target="_blank" rel="noopener">TwoVotes</a></h3>
