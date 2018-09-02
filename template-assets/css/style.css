@@ -2009,4 +2009,10 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
         padding-left: 10px;
 
     }
+    .project-text {
+        color: yellow;
+    }
+    .project-link {
+        color: blue !important;
+    }
 }
