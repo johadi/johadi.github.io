@@ -14,6 +14,43 @@ export const Experience = () => (
           <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
             <div className="timeline-entry-inner">
 
+              <div className="timeline-icon color-5">
+                <i className="icon-pen2"></i>
+              </div>
+
+              <div className="timeline-label">
+                <h2>
+                  <a href="#">Full-stack Developer</a><br/>
+                  <span>Attune Insurance</span><br/>
+                  <small>Aug 2018 - Aug 2019</small>
+                  <br/>
+                  <span>New York, USA</span>
+                </h2>
+                <p>Andela client in New York that I was assigned to work for — worked with other senior developers to develop new features and fix bugs on both frontend and backend of their application.</p>
+                <ul className="tag-wrapper">
+                  <li>
+                    <small>Angular 8</small>
+                  </li>
+                  <li>
+                    <small>Typescript</small>
+                  </li>
+                  <li>
+                    <small>Docker</small>
+                  </li>
+                  <li>
+                    <small>NodeJS</small>
+                  </li>
+                  <li>
+                    <small>Postgres</small>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </article>
+
+          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+            <div className="timeline-entry-inner">
+
               <div className="timeline-icon color-1">
                 <i className="icon-pen2"></i>
               </div>
@@ -22,11 +59,11 @@ export const Experience = () => (
                 <h2>
                   <a href="#">Software Developer</a><br/>
                   <span>Andela</span><br/>
-                  <small>Aug 2017 - Present</small>
+                  <small>Aug 2017 - Aug 2019</small>
                   <br/>
                   <span>Lagos, Nigeria</span>
                 </h2>
-                <p>Currently a Software Developer at Andela with the responsibility of developing and
+                <p>Worked as a Software Developer with the responsibility of developing and
                   maintaining Web and Mobile Applications for Andela in-house products and
                   its partners.</p>
                 <ul className="tag-wrapper">
@@ -119,7 +156,7 @@ export const Experience = () => (
                   <span>Kaduna, Nigeria</span>
                 </h2>
                 <p>Undertook internship as part of the University's Student Industrial Work Experience Scheme.
-                  I contributed to developing some of the University's in-house software and website.</p>
+                  I contributed to developing and maintaining some of the University's in-house software and website.</p>
                 <ul className="tag-wrapper">
                   <li>
                     <small>PHP</small>

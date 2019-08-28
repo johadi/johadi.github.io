@@ -16,7 +16,7 @@ export const Education = () => (
               <div className="panel-heading" role="tab" id="headingOne">
                 <h4 className="panel-title">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true"
-                     aria-controls="collapseOne">University Education
+                     aria-controls="collapseOne">University education
                   </a>
                 </h4>
               </div>

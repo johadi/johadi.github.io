@@ -66,7 +66,7 @@ export class Contact extends React.Component {
                 <i className="icon-mail"></i>
               </div>
               <div className="colorlib-text">
-                <p><a href="#">contact@jimohhadi.com</a></p>
+                <p><a href="#">jimoh.hadi@gmail.com</a></p>
               </div>
             </div>
 
@@ -75,7 +75,7 @@ export class Contact extends React.Component {
                 <i className="icon-map"></i>
               </div>
               <div className="colorlib-text">
-                <p>15 Oyedele Street, Ikotun, Alimosho, Lagos, Nigeria</p>
+                <p>12 Anthony Udoh Avenue, Ajao Estate, Oshodi, Lagos, Nigeria</p>
               </div>
             </div>
 
