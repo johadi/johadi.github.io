@@ -15,7 +15,7 @@ export const About = () => (
                 <strong> Bsc. in Computer Science (First Class Honours)</strong> with strong background
                 in programming, and considerable experience using cutting-edge software development tools.
                 I have worked with several JavaScript frameworks/libraries/tools which include
-                <strong> NodeJS, ReactJS, Angular (Angular 6+), React Native, jQuery, Babel, Webpack,
+                <strong> NodeJS, ReactJS, Angular (Angular 8+), React Native, GraphQL, jQuery, Babel, Webpack,
                   etc., </strong>
                 and also, I have hands-on experience working with<strong> PHP - using Laravel Framework.</strong>
               </p>

@@ -59,7 +59,7 @@ export const Experience = () => (
                 <h2>
                   <a href="#">Software Developer</a><br/>
                   <span>Andela</span><br/>
-                  <small>Aug 2017 - Aug 2019</small>
+                  <small>Aug 2017 - Apr 2020</small>
                   <br/>
                   <span>Lagos, Nigeria</span>
                 </h2>
@@ -68,13 +68,16 @@ export const Experience = () => (
                   its partners.</p>
                 <ul className="tag-wrapper">
                   <li>
+                    <small>Angular 8</small>
+                  </li>
+                  <li>
                     <small>React/Redux</small>
                   </li>
                   <li>
-                    <small>Angular 6</small>
+                    <small>React Native</small>
                   </li>
                   <li>
-                    <small>React Native</small>
+                    <small>GraphQL</small>
                   </li>
                   <li>
                     <small>jQuery</small>
@@ -149,20 +152,24 @@ export const Experience = () => (
               </div>
               <div className="timeline-label">
                 <h2>
-                  <a href="#">Web Developer</a><br/>
+                  <a href="#">Developer Intern</a><br/>
                   <span>Ahmadu Bello University Software Development Unit</span><br/>
                   <small>Apr 2014 - Aug 2014</small>
                   <br/>
                   <span>Kaduna, Nigeria</span>
                 </h2>
-                <p>Undertook internship as part of the University's Student Industrial Work Experience Scheme.
-                  I contributed to developing and maintaining some of the University's in-house software and website.</p>
+                <p>
+                  Worked mainly as intern with the senior developers on the team to maintain and develop features for the university website.
+                </p>
                 <ul className="tag-wrapper">
                   <li>
                     <small>PHP</small>
                   </li>
                   <li>
                     <small>Java</small>
+                  </li>
+                  <li>
+                    <small>JavaScript</small>
                   </li>
                   <li>
                     <small>jQuery</small>

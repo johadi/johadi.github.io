@@ -18,9 +18,9 @@ export const Skills = () => (
         <div className="progress-wrap">
           <h3>JavaScript</h3>
           <div className="progress">
-            <div className="progress-bar color-6" role="progressbar" aria-valuenow="80"
-                 aria-valuemin="0" aria-valuemax="100" style={{width: '80%'}}>
-              <span>80%</span>
+            <div className="progress-bar color-1" role="progressbar" aria-valuenow="80"
+                 aria-valuemin="0" aria-valuemax="100" style={{width: '85%'}}>
+              <span>85%</span>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@ export const Skills = () => (
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
         <div className="progress-wrap">
-          <h3>Angular 6</h3>
+          <h3>Angular 8</h3>
           <div className="progress">
             <div className="progress-bar color-1" role="progressbar" aria-valuenow="85"
                  aria-valuemin="0" aria-valuemax="100" style={{width: '85%'}}>
@@ -54,6 +54,17 @@ export const Skills = () => (
             <div className="progress-bar color-6" role="progressbar" aria-valuenow="80"
                  aria-valuemin="0" aria-valuemax="100" style={{width: '80%'}}>
               <span>80%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+        <div className="progress-wrap">
+          <h3>GraphQL</h3>
+          <div className="progress">
+            <div className="progress-bar color-1" role="progressbar" aria-valuenow="85"
+                 aria-valuemin="0" aria-valuemax="100" style={{width: '85%'}}>
+              <span>85%</span>
             </div>
           </div>
         </div>
@@ -84,9 +95,9 @@ export const Skills = () => (
         <div className="progress-wrap">
           <h3>NodeJS</h3>
           <div className="progress">
-            <div className="progress-bar color-6" role="progressbar" aria-valuenow="80"
+            <div className="progress-bar color-1" role="progressbar" aria-valuenow="80"
                  aria-valuemin="0" aria-valuemax="100" style={{width: '80%'}}>
-              <span>80%</span>
+              <span>85%</span>
             </div>
           </div>
         </div>
