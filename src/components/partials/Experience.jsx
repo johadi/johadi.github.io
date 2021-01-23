@@ -73,7 +73,7 @@ export const Experience = () => (
                 <h2>
                   <a href="#">Software Developer</a><br/>
                   <span>Andela</span><br/>
-                  <small>Aug 2017 - Apr 2020</small>
+                  <small>August 2017 - March 2020</small>
                   <br/>
                   <span>Lagos, Nigeria</span>
                 </h2>
@@ -118,6 +118,42 @@ export const Experience = () => (
               </div>
             </div>
           </article>
+          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+            <div className="timeline-entry-inner">
+
+              <div className="timeline-icon color-5">
+                <i className="icon-pen2"></i>
+              </div>
+
+              <div className="timeline-label">
+                <h2>
+                  <a href="#">Full-stack Developer</a><br/>
+                  <span>Attune Insurance</span><br/>
+                  <small>August 2018 - September 2019</small>
+                  <br/>
+                  <span>New York, U.S.A.</span>
+                </h2>
+                <p>One of the Andela clients that I was assigned to work with in New York. Worked on both frontend and backend of their projects to develop their payment system and implement some other features.</p>
+                <ul className="tag-wrapper">
+                  <li>
+                    <small>Angular 8</small>
+                  </li>
+                  <li>
+                    <small>Typescript</small>
+                  </li>
+                  <li>
+                    <small>Docker</small>
+                  </li>
+                  <li>
+                    <small>NodeJS</small>
+                  </li>
+                  <li>
+                    <small>Postgres</small>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </article>
           <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
             <div className="timeline-entry-inner">
               <div className="timeline-icon color-4">
@@ -149,42 +185,6 @@ export const Experience = () => (
               </div>
             </div>
           </article>
-          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-            <div className="timeline-entry-inner">
-
-              <div className="timeline-icon color-5">
-                <i className="icon-pen2"></i>
-              </div>
-
-              <div className="timeline-label">
-                <h2>
-                  <a href="#">Full-stack Developer</a><br/>
-                  <span>Attune Insurance</span><br/>
-                  <small>Aug 2018 - Aug 2019</small>
-                  <br/>
-                  <span>New York, U.S.A.</span>
-                </h2>
-                <p>One of the Andela clients that I was assigned to work with in New York. Worked on both frontend and backend of their projects to develop their payment system and implement some other features.</p>
-                <ul className="tag-wrapper">
-                  <li>
-                    <small>Angular 8</small>
-                  </li>
-                  <li>
-                    <small>Typescript</small>
-                  </li>
-                  <li>
-                    <small>Docker</small>
-                  </li>
-                  <li>
-                    <small>NodeJS</small>
-                  </li>
-                  <li>
-                    <small>Postgres</small>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </article>
 
           <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
             <div className="timeline-entry-inner">
@@ -195,7 +195,7 @@ export const Experience = () => (
                 <h2>
                   <a href="#">Full Stack Developer</a><br/>
                   <span>Ekaruz Technology</span><br/>
-                  <small>Mar 2016 - Apr 2017</small>
+                  <small>February 2016 - March 2017</small>
                   <br/>
                   <span>Lagos, Nigeria</span>
                 </h2>
@@ -234,7 +234,7 @@ export const Experience = () => (
                 <h2>
                   <a href="#">Developer Intern</a><br/>
                   <span>Ahmadu Bello University Software Development Unit</span><br/>
-                  <small>Apr 2014 - Aug 2014</small>
+                  <small>June 2014 - November 2014</small>
                   <br/>
                   <span>Kaduna, Nigeria</span>
                 </h2>
