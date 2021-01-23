@@ -11,7 +11,7 @@ export const Skills = () => (
     <div className="row">
       <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
         <p>With over 5 years experience in programming, I'm well skilled and have acquired considerable experience
-          working with plethora of JavaScript and PHP stacks, and different Databases. Below are the
+          working with plethora of JavaScript stacks, and different Databases. Below are the
           frameworks/libraries/tools/databases that I have mastered over the years:</p>
       </div>
       <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">

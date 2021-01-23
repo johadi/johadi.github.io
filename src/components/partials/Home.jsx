@@ -12,7 +12,7 @@ export const Home = () => (
               <div className="slider-text-inner js-fullheight">
                 <div className="desc">
                   <h1>Hi! <br/>I'm Jimoh</h1>
-                  <h2>A passionate and result-oriented software developer with 5+ years experience in
+                  <h2>A passionate and result-driven software engineer with 5+ years experience in
                     programming</h2>
                   <p>
                     <a download href="/template-assets/files/jimoh_hadi_cv.pdf" className="btn btn-primary btn-learn">
@@ -33,8 +33,8 @@ export const Home = () => (
               className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
               <div className="slider-text-inner">
                 <div className="desc navbar-inner">
-                  <h1>I am a<br/> Software Developer</h1>
-                  <h2>With Bsc. in Computer Science and strong background in programming</h2>
+                  <h1>I am a<br/> Software Engineer</h1>
+                  <h2>With BSc. in Computer Science and strong background in programming</h2>
                   <p>
                     <a href="#" data-nav-section="about" className="btn btn-primary btn-learn">
                       See my Portfolio <i className="icon-user"></i>

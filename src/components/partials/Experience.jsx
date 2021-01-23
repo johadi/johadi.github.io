@@ -14,40 +14,54 @@ export const Experience = () => (
           <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
             <div className="timeline-entry-inner">
 
-              <div className="timeline-icon color-5">
+              <div className="timeline-icon color-1">
                 <i className="icon-pen2"></i>
               </div>
 
               <div className="timeline-label">
                 <h2>
-                  <a href="#">Full-stack Developer</a><br/>
-                  <span>Attune Insurance</span><br/>
-                  <small>Aug 2018 - Aug 2019</small>
+                  <a href="#">Software Engineer</a><br/>
+                  <span>iTecGurus</span><br/>
+                  <small>April 2020 - Present</small>
                   <br/>
-                  <span>New York, USA</span>
+                  <span>Florida, U.S.A.</span>
                 </h2>
-                <p>Andela client in New York that I was assigned to work for — worked with other senior developers to develop new features and fix bugs on both frontend and backend of their application.</p>
+                <p>Working with other software developers on the team to build new features and maintain applications for some of iTecGurus’ clients.</p>
                 <ul className="tag-wrapper">
                   <li>
                     <small>Angular 8</small>
                   </li>
                   <li>
-                    <small>Typescript</small>
+                    <small>React/Redux</small>
                   </li>
                   <li>
-                    <small>Docker</small>
+                    <small>GraphQL</small>
+                  </li>
+                  <li>
+                    <small>TypeScript</small>
+                  </li>
+                  <li>
+                    <small>HighCharts</small>
                   </li>
                   <li>
                     <small>NodeJS</small>
                   </li>
                   <li>
+                    <small>ngRx</small>
+                  </li>
+                  <li>
+                    <small>MySQL</small>
+                  </li>
+                  <li>
                     <small>Postgres</small>
+                  </li>
+                  <li>
+                    <small>MongoDB</small>
                   </li>
                 </ul>
               </div>
             </div>
           </article>
-
           <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
             <div className="timeline-entry-inner">
 
@@ -104,7 +118,73 @@ export const Experience = () => (
               </div>
             </div>
           </article>
+          <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
+            <div className="timeline-entry-inner">
+              <div className="timeline-icon color-4">
+                <i className="icon-pen2"></i>
+              </div>
+              <div className="timeline-label">
+                <h2>
+                  <a href="#">Full Stack Developer</a><br/>
+                  <span>BittBoard</span><br/>
+                  <small>April 2019 - August 2019</small>
+                  <br/>
+                  <span>Chicago, U.S.A.</span>
+                </h2>
+                <p>Worked with other developers to develop a platform for running a visual commerce business.</p>
+                <ul className="tag-wrapper">
+                  <li>
+                    <small>React/Redux</small>
+                  </li>
+                  <li>
+                    <small>NodeJS/Express</small>
+                  </li>
+                  <li>
+                    <small>MySQL</small>
+                  </li>
+                  <li>
+                    <small>Socket.IO</small>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </article>
+          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+            <div className="timeline-entry-inner">
 
+              <div className="timeline-icon color-5">
+                <i className="icon-pen2"></i>
+              </div>
+
+              <div className="timeline-label">
+                <h2>
+                  <a href="#">Full-stack Developer</a><br/>
+                  <span>Attune Insurance</span><br/>
+                  <small>Aug 2018 - Aug 2019</small>
+                  <br/>
+                  <span>New York, U.S.A.</span>
+                </h2>
+                <p>One of the Andela clients that I was assigned to work with in New York. Worked on both frontend and backend of their projects to develop their payment system and implement some other features.</p>
+                <ul className="tag-wrapper">
+                  <li>
+                    <small>Angular 8</small>
+                  </li>
+                  <li>
+                    <small>Typescript</small>
+                  </li>
+                  <li>
+                    <small>Docker</small>
+                  </li>
+                  <li>
+                    <small>NodeJS</small>
+                  </li>
+                  <li>
+                    <small>Postgres</small>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </article>
 
           <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
             <div className="timeline-entry-inner">
