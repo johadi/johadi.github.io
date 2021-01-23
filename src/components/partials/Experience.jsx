@@ -243,13 +243,13 @@ export const Experience = () => (
                 </p>
                 <ul className="tag-wrapper">
                   <li>
+                    <small>JavaScript</small>
+                  </li>
+                  <li>
                     <small>PHP</small>
                   </li>
                   <li>
                     <small>Java</small>
-                  </li>
-                  <li>
-                    <small>JavaScript</small>
                   </li>
                   <li>
                     <small>jQuery</small>
