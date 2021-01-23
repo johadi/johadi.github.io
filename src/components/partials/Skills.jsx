@@ -113,17 +113,17 @@ export const Skills = () => (
           </div>
         </div>
       </div>
-      <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-        <div className="progress-wrap">
-          <h3>Laravel</h3>
-          <div className="progress">
-            <div className="progress-bar color-1" role="progressbar" aria-valuenow="85"
-                 aria-valuemin="0" aria-valuemax="100" style={{width: '85%'}}>
-              <span>85%</span>
-            </div>
-          </div>
-        </div>
-      </div>
+      {/*<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">*/}
+      {/*  <div className="progress-wrap">*/}
+      {/*    <h3>Laravel</h3>*/}
+      {/*    <div className="progress">*/}
+      {/*      <div className="progress-bar color-1" role="progressbar" aria-valuenow="85"*/}
+      {/*           aria-valuemin="0" aria-valuemax="100" style={{width: '85%'}}>*/}
+      {/*        <span>85%</span>*/}
+      {/*      </div>*/}
+      {/*    </div>*/}
+      {/*  </div>*/}
+      {/*</div>*/}
       <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
         <div className="progress-wrap">
           <h3>MongoDB</h3>
