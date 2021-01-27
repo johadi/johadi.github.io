@@ -246,13 +246,13 @@ export const Experience = () => (
                     <small>JavaScript</small>
                   </li>
                   <li>
+                    <small>jQuery</small>
+                  </li>
+                  <li>
                     <small>PHP</small>
                   </li>
                   <li>
                     <small>Java</small>
-                  </li>
-                  <li>
-                    <small>jQuery</small>
                   </li>
                   <li>
                     <small>MySQL</small>
