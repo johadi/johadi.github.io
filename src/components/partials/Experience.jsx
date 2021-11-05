@@ -62,7 +62,7 @@ export const Experience = () => (
 
               <div className="timeline-label">
                 <h2>
-                  <a href="#">Senior Software Engineer (Part-time)</a><br/>
+                  <a href="#">Senior Software Engineer <span>(Part-time)</span></a><br/>
                   <span>Voomsway</span><br/>
                   <small>March 2019 - Present</small>
                   <br/>
