@@ -14,7 +14,97 @@ export const Experience = () => (
           <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
             <div className="timeline-entry-inner">
 
-              <div className="timeline-icon color-1">
+              <div className="timeline-icon color-5">
+                <i className="icon-pen2"></i>
+              </div>
+
+              <div className="timeline-label">
+                <h2>
+                  <a href="#">Senior Software Engineer</a><br/>
+                  <span>NewPage Solutions</span><br/>
+                  <small>October 2021 - Present</small>
+                  <br/>
+                  <span>North Carolina, U.S.A.</span>
+                </h2>
+                <p>Developing applications that solve health-related problems.</p>
+                <ul className="tag-wrapper">
+                  <li>
+                    <small>Angular 11</small>
+                  </li>
+                  <li>
+                    <small>TypeScript</small>
+                  </li>
+                  <li>
+                    <small>RxJS</small>
+                  </li>
+                  <li>
+                    <small>NodeJS</small>
+                  </li>
+                  <li>
+                    <small>Ionic Framework</small>
+                  </li>
+                  <li>
+                    <small>Docker</small>
+                  </li>
+                  <li>
+                    <small>AWS</small>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </article>
+          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+            <div className="timeline-entry-inner">
+
+              <div className="timeline-icon color-4">
+                <i className="icon-pen2"></i>
+              </div>
+
+              <div className="timeline-label">
+                <h2>
+                  <a href="#">Senior Software Engineer (Part-time)</a><br/>
+                  <span>Voomsway</span><br/>
+                  <small>March 2019 - Present</small>
+                  <br/>
+                  <span>Lagos, Nigeria.</span>
+                </h2>
+                <p>Revolutionalizing the transport management system in Nigeria</p>
+                <ul className="tag-wrapper">
+                  <li>
+                    <small>React/Redux</small>
+                  </li>
+                  <li>
+                    <small>NodeJS</small>
+                  </li>
+                  <li>
+                    <small>TypeScript</small>
+                  </li>
+                  <li>
+                    <small>GraphQL</small>
+                  </li>
+                  <li>
+                    <small>Apollo Client</small>
+                  </li>
+                  <li>
+                    <small>MySQL</small>
+                  </li>
+                  <li>
+                    <small>MongoDB</small>
+                  </li>
+                  <li>
+                    <small>Docker</small>
+                  </li>
+                  <li>
+                    <small>AWS</small>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </article>
+          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+            <div className="timeline-entry-inner">
+
+              <div className="timeline-icon color-3">
                 <i className="icon-pen2"></i>
               </div>
 
@@ -22,14 +112,14 @@ export const Experience = () => (
                 <h2>
                   <a href="#">Software Engineer</a><br/>
                   <span>iTecGurus</span><br/>
-                  <small>April 2020 - Present</small>
+                  <small>April 2020 - September 2021</small>
                   <br/>
-                  <span>Florida, U.S.A.</span>
+                  <span>Arizona, U.S.A.</span>
                 </h2>
-                <p>Working with other software developers on the team to build new features and maintain applications for some of iTecGurus’ clients.</p>
+                <p>Worked with other software developers on the team to build new features and maintain applications for some of iTecGurus’ clients.</p>
                 <ul className="tag-wrapper">
                   <li>
-                    <small>Angular 8</small>
+                    <small>Angular 10</small>
                   </li>
                   <li>
                     <small>React/Redux</small>
