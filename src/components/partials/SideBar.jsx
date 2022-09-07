@@ -5,7 +5,7 @@ export const SideBar = () => (
     <div className="text-center">
       <div className="author-img" style={{backgroundImage: 'url(/template-assets/images/about_johadi.jpg)'}}></div>
       <h1 id="colorlib-logo"><a>Jimoh Hadi</a></h1>
-      <small><a className="position text-primary">Software Engineer in Nigeria</a></small>
+      <small><a className="position text-primary">Senior Software Engineer</a></small>
     </div>
     <nav id="colorlib-main-menu" role="navigation" className="navbar">
       <div id="navbar" className="navbar-inner collapse">
