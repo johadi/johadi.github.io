@@ -21,12 +21,66 @@ export const Experience = () => (
               <div className="timeline-label">
                 <h2>
                   <a href="#">Senior Software Engineer</a><br/>
+                  <span>Seenons</span><br/>
+                  <small>December 2021 - Present</small>
+                  <br/>
+                  <span>Amsterdam, Netherlands</span>
+                </h2>
+                <p>Developing a waste management system that powers the mission of achieving zero waste across Europe.</p>
+                <ul className="tag-wrapper">
+                  <li>
+                    <small>NodeJS</small>
+                  </li>
+                  <li>
+                    <small>NestJS</small>
+                  </li>
+                  <li>
+                    <small>TypeScript</small>
+                  </li>
+                  <li>
+                    <small>Angular 12</small>
+                  </li>
+                  <li>
+                    <small>RxJS</small>
+                  </li>
+                  <li>
+                    <small>Docker</small>
+                  </li>
+                  <li>
+                    <small>AWS</small>
+                  </li>
+                  <li>
+                    <small>TypeORM</small>
+                  </li>
+                  <li>
+                    <small>Postgres</small>
+                  </li>
+                  <li>
+                    <small>Swagger</small>
+                  </li>
+                  <li>
+                    <small>Jest</small>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </article>
+          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+            <div className="timeline-entry-inner">
+
+              <div className="timeline-icon color-4">
+                <i className="icon-pen2"></i>
+              </div>
+
+              <div className="timeline-label">
+                <h2>
+                  <a href="#">Senior Software Engineer</a><br/>
                   <span>NewPage Solutions</span><br/>
-                  <small>October 2021 - Present</small>
+                  <small>October 2021 - March 2022</small>
                   <br/>
                   <span>North Carolina, U.S.A.</span>
                 </h2>
-                <p>Developing applications that solve health-related problems.</p>
+                <p>Developed applications that solved health-related problems.</p>
                 <ul className="tag-wrapper">
                   <li>
                     <small>Angular 11</small>
@@ -42,54 +96,6 @@ export const Experience = () => (
                   </li>
                   <li>
                     <small>Ionic Framework</small>
-                  </li>
-                  <li>
-                    <small>Docker</small>
-                  </li>
-                  <li>
-                    <small>AWS</small>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </article>
-          <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-            <div className="timeline-entry-inner">
-
-              <div className="timeline-icon color-4">
-                <i className="icon-pen2"></i>
-              </div>
-
-              <div className="timeline-label">
-                <h2>
-                  <a href="#">Senior Software Engineer <span>(Part-time)</span></a><br/>
-                  <span>Voomsway</span><br/>
-                  <small>March 2019 - Present</small>
-                  <br/>
-                  <span>Lagos, Nigeria.</span>
-                </h2>
-                <p>Revolutionalizing the transport management system in Nigeria</p>
-                <ul className="tag-wrapper">
-                  <li>
-                    <small>React/Redux</small>
-                  </li>
-                  <li>
-                    <small>NodeJS</small>
-                  </li>
-                  <li>
-                    <small>TypeScript</small>
-                  </li>
-                  <li>
-                    <small>GraphQL</small>
-                  </li>
-                  <li>
-                    <small>Apollo Client</small>
-                  </li>
-                  <li>
-                    <small>MySQL</small>
-                  </li>
-                  <li>
-                    <small>MongoDB</small>
                   </li>
                   <li>
                     <small>Docker</small>

@@ -12,7 +12,7 @@ export const Home = () => (
               <div className="slider-text-inner js-fullheight">
                 <div className="desc">
                   <h1>Hi! <br/>I'm Jimoh</h1>
-                  <h2>A passionate and result-driven software engineer with 5+ years experience in
+                  <h2>A passionate and result-driven software engineer with 7+ years experience in
                     programming</h2>
                   <p>
                     <a download href="/template-assets/files/jimoh_hadi_cv.pdf" className="btn btn-primary btn-learn">

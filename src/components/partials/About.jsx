@@ -11,7 +11,7 @@ export const About = () => (
               <h2 className="colorlib-heading">Who Am I?</h2>
               <p>
                 Hi, I'm <strong>Jimoh Hadi.</strong> I am a very passionate and result-driven software developer
-                with 5+ years experience in programming. I have
+                with 7+ years experience in programming. I have
                 <strong> Bsc. in Computer Science (First Class Honours)</strong> with strong background
                 in programming, and considerable experience using cutting-edge software development tools.
                 I have worked with several JavaScript frameworks/libraries/tools which include
